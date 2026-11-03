@@ -1,6 +1,4 @@
 ADD
-<<<<<<< HEAD
 SUB
-=======
 MUL
->>>>>>> 19fee1d ([CDPM-03] Implement mul function)
+DIV
